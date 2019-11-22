@@ -1,6 +1,6 @@
 version: "3"
 services:
-  nutstat:
+  trauth:
     image: trauth
     container_name: trauth
     environment:
